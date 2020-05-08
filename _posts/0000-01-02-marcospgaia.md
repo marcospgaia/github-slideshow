@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "GOSTOZA"
 ---
 nayanne gostoza
-Use the left arrow to go back!
+VC É UMA DELICIA
